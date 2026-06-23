@@ -6,10 +6,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+  <a href="https://github.com/Mark-Louie27">
+    <img src="https://img.shields.io/github/followers/Mark-Louie27?label=Followers&style=for-the-badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Mark-Louie27&style=for-the-badge&color=blue"/>
 </p>
 
 
@@ -123,9 +123,9 @@ Tech:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mark-Louie27&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mark-Louie27&theme=tokyonight"/>
 
 </p>
 
