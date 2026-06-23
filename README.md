@@ -27,24 +27,17 @@ I'm a **Full Stack Developer** passionate about building modern applications, au
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&perline=7&size=18" />
 </p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,cpp&perline=7&size=18" />
 </p>
-
-**Database & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,vercel&perline=7&size=18" />
 </p>
-
-**Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=7&size=18" />
 </p>
 
 ---
